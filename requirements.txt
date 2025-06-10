@@ -1,3 +1,4 @@
 pyTelegramBotAPI
-Qrcode
+qrcode
 Pillow
+pyzbar
